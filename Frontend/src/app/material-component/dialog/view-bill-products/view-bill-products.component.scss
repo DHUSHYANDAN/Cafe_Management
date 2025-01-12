@@ -1,0 +1,42 @@
+.mat-toolbar {
+  margin: -24px;
+  margin-bottom: 0;
+  width: auto;
+  margin-bottom: 10PX;
+}
+
+  mat-form-field{
+      padding: 5px;
+  }
+
+  .float-right{
+      float: right;
+  }
+  
+  mat-card{
+      padding: 20px;
+  }
+  
+  table {
+      width: 100%;
+    }
+
+
+    #customers {
+      font-family: Arial, Helvetica, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+    }
+    
+    #customers td, #customers th {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+    
+    #customers th {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      text-align: left;
+      background-color: #04AA6D;
+      color: white;
+    }
